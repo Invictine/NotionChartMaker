@@ -2,10 +2,9 @@
 
 Just a silly little program I made to pull my notion data and turn it into interactive charts so I can track my long-term goals better. 
 
-##ChatGPT generated from here
+# *ChatGPT generated from here*
 
 NotionChartMaker is a Flask-based application that visualizes progress metrics from a Notion database in real time. The project dynamically generates a donut chart that updates periodically, displaying the current status of monthly goals or quotas
-# NotionChartMaker
 
 ## Overview
 **NotionChartMaker** is a Python web application that generates real-time, interactive visualizations for tracking progress from a Notion database. It is designed for professionals, students, or anyone who uses Notion for managing tasks or setting goals. The project leverages Flask for serving the web page and Matplotlib for creating dynamic donut charts.
