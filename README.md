@@ -1,6 +1,6 @@
 # Notion Chart Maker
 
-Turn a Notion production calendar into a live donut chart showing how many videos have counted toward this month’s upload goal.
+I wanted a quick visual answer to “how many uploads have actually landed this month?” This Flask dashboard queries a Notion production calendar and turns its uploaded records into a donut chart, with the same counts available as JSON. Bring your own database and integration, then adapt the goal or chart to fit your workflow.
 
 ## Connect a calendar
 
