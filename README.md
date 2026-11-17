@@ -1,6 +1,6 @@
 # Notion Chart Maker
 
-Notion databases hold valuable operational data but lack native dynamic chart embeds. Notion Chart Maker bridges the official Notion API with client-side Chart.js rendering to generate embeddable bar, line, and doughnut charts directly from structured workspace properties. Keeps database secrets secured and renders responsive charts without third-party tracking. Fork the repository to add custom color themes or support multi-property aggregation formulas.
+I wanted a quick visual answer to “how many uploads have actually landed this month?” This Flask dashboard queries a Notion production calendar and turns its uploaded records into a donut chart, with the same counts available as JSON. Bring your own database and integration, then adapt the goal or chart to fit your workflow.
 
 [![Notion Chart Maker](media/overview.png)](media/walkthrough.mp4)
 *Click preview above to watch illustrated architecture overview.*
